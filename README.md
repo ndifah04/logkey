@@ -160,3 +160,4 @@ logkeys is dual licensed under the terms of either GNU GPLv3 or later, or
 WTFPLv2 or later. It is entirely your choice! See COPYING for further
 information about licensing.
 # logkey
+# logkey
